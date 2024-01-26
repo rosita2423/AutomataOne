@@ -1,0 +1,14 @@
+C:\Users\victo\source\repos\AutomataOne\AutomataOne\bin\Debug\net8.0\AutomataOne.exe
+C:\Users\victo\source\repos\AutomataOne\AutomataOne\bin\Debug\net8.0\AutomataOne.deps.json
+C:\Users\victo\source\repos\AutomataOne\AutomataOne\bin\Debug\net8.0\AutomataOne.runtimeconfig.json
+C:\Users\victo\source\repos\AutomataOne\AutomataOne\bin\Debug\net8.0\AutomataOne.dll
+C:\Users\victo\source\repos\AutomataOne\AutomataOne\bin\Debug\net8.0\AutomataOne.pdb
+C:\Users\victo\source\repos\AutomataOne\AutomataOne\obj\Debug\net8.0\AutomataOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\AutomataOne\AutomataOne\obj\Debug\net8.0\AutomataOne.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\AutomataOne\AutomataOne\obj\Debug\net8.0\AutomataOne.AssemblyInfo.cs
+C:\Users\victo\source\repos\AutomataOne\AutomataOne\obj\Debug\net8.0\AutomataOne.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\AutomataOne\AutomataOne\obj\Debug\net8.0\AutomataOne.dll
+C:\Users\victo\source\repos\AutomataOne\AutomataOne\obj\Debug\net8.0\refint\AutomataOne.dll
+C:\Users\victo\source\repos\AutomataOne\AutomataOne\obj\Debug\net8.0\AutomataOne.pdb
+C:\Users\victo\source\repos\AutomataOne\AutomataOne\obj\Debug\net8.0\AutomataOne.genruntimeconfig.cache
+C:\Users\victo\source\repos\AutomataOne\AutomataOne\obj\Debug\net8.0\ref\AutomataOne.dll
